@@ -1,0 +1,24 @@
+{
+  "name": "library-crud",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jorge Junior <jorge.junior.568@live.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jorgejr568/library-crud",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue-strap": "^1.0.11",
+    "vue": "^1.0.26",
+    "vue-resource": "^0.9.3",
+    "font-awesome": "^4.6.3",
+    "bootstrap": "^3.3.7"
+  }
+}
